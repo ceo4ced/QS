@@ -1,0 +1,25 @@
+Quality Score Report
+========================================================
+author: Cedric Williams
+date: 6/21/2015
+
+What We Want
+========================================================
+
+We are seeking an investment of $200,000 for further development of our Quality Score application. In exchange, we will give 200 shares or $1,000 per share. 
+
+
+Problem
+========================================================
+Too many customers don't know their quality score.   They make decisions without knowing the full picture.
+
+
+Solution
+========================================================
+Our Quality Score SaaS tracks your daily quality score so you can make better decisions.
+
+
+Sample Graphs
+========================================================
+![plot of chunk unnamed-chunk-1](quality-score-pres-figure/unnamed-chunk-1-1.png) 
+
